@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.db
+test_req.py
+test_req2.py
+curl_err.txt
+.env
+.DS_Store
+start_tunnel.ps1
